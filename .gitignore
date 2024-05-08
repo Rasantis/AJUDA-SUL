@@ -1,0 +1,6 @@
+# Ignorar diretórios de ambiente virtual
+venv/
+
+# Ignorar diretórios de datasets
+dataset/
+dataset2/
